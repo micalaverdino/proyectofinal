@@ -1,0 +1,55 @@
+div{
+    background: linear-gradient(rgba(86, 38, 199, 0.766),black, blueviolet);
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.navegacion li {
+    display: inline;
+}
+.navegacion{
+    list-style: none;
+    padding: 0;
+    margin: 50px;
+}
+.navegacion li a {
+    padding: 10px;
+    text-decoration: none;
+    color: #000; /* Color del texto */
+    background-color: #00000018; /* Color de fondo */
+    border-radius: 5px;
+    margin-right: 120px; /* Espacio entre los elementos */
+}
+footer {
+    margin: 0;
+}
+.image-twitch {
+    width: 30px;
+    height: auto;
+}
+.image-ig {
+    width: 30px;
+    height: auto;
+}
+.image-twitter {
+    width: 30px;
+    height: auto;
+}
+.image-tiktok {
+    width: 30px;
+    height: auto;
+}
+.image-yt {
+    width: 30px;
+    height: auto;
+}
+.image-ds {
+    width: 30px;
+    height: auto;
+}
