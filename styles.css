@@ -24,8 +24,20 @@
     color: #000; /* Color del texto */
     background-color: #00000018; /* Color de fondo */
     border-radius: 5px;
-    margin-right: 100px; /* Espacio entre los elementos */
+    margin-right: 100px; /*- Espacio entre los elementos */
+}
+.titulo-1 {
+    color: #000;
+}
+body {
+    background: scroll;
+    background: rgba(rgba(143, 14, 178, 0.771), rgba(208, 157, 222, 0.912), rgb(175, 87, 238), alpha);
 }
 footer {
-    margin: 0;
+    margin: 600px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background: linear-gradient(white, rgba(100, 50, 150, 0.65));
+    display: block;
+    padding: 50px 60px 50px 700px;
 }
