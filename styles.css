@@ -33,6 +33,11 @@ body {
     background: scroll;
     background: rgba(rgba(143, 14, 178, 0.771), rgba(208, 157, 222, 0.912), rgb(175, 87, 238), alpha);
 }
+.img_inicio {
+    background-image: url(PG2024.png);
+    background: black;
+    background-size: cover;
+}
 footer {
     margin: 600px;
     margin-right: 0px;
