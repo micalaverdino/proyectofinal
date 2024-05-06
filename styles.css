@@ -38,6 +38,46 @@ body {
     background: black;
     background-size: cover;
 }
+.box {
+    width: 470px;
+    height: 700px;
+    background: #e0e0e0;
+    margin: 20px 0 20px 20px;
+    box-shadow: 0 0 40px #0007;
+    padding: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: #444;
+    text-align: left;
+}
+.cardBody {
+    width: 400px;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.namef {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.cardImage {
+    background-image: none;
+    border-radius: 10px;
+}
+.cardInfo {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.cardrrss {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #000;
+}
+.cardImagen {
+    width: 400px;
+    height: 500px;
+}
+
 footer {
     margin: 600px;
     margin-right: 0px;
