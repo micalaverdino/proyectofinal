@@ -33,11 +33,7 @@ body {
     background: scroll;
     background: rgba(rgba(143, 14, 178, 0.771), rgba(208, 157, 222, 0.912), rgb(175, 87, 238), alpha);
 }
-.img_inicio {
-    background-image: url(PG2024.png);
-    background: black;
-    background-size: cover;
-}
+/* Card staff */
 .box {
     width: 470px;
     height: 700px;
@@ -56,13 +52,10 @@ body {
     font-family: sans-serif;
     padding: 20px;
 }
+/* card fabri*/
 .namef {
     font-size: 25px;
     font-family: sans-serif;
-}
-.cardImage {
-    background-image: none;
-    border-radius: 10px;
 }
 .cardInfo {
     font-size: 15px;
@@ -73,16 +66,47 @@ body {
     font-family: sans-serif;
     color: #000;
 }
-.cardImagen {
+.ImagenFabri {
     width: 400px;
-    height: 500px;
+    height: 400px;
+    background-image: none;
+    border-radius: 10px;
+}
+/* card lof */
+.namel {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.ImagenLof {
+    width: 300px;
+    height: 400px;
+    background-image: none;
+    border-radius: 10px;
+}
+/* card luva */
+.namelu {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.cardImagenLuva {
+    width: 400px;
+    height: 600px;
+    margin-right: 20px;
+}
+/* blog - entrevista */
+.entrevistas1 {
+    margin: 0 auto;
+
 }
 
-footer {
+/* Footer */
+.redes {
     margin: 600px;
     margin-right: 0px;
     margin-left: 0px;
     background: linear-gradient(white, rgba(100, 50, 150, 0.65));
-    display: block;
+    display: flex;
     padding: 50px 60px 50px 700px;
+    justify-content: space-between;
 }
+
